@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets
+END
+IllustratedComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/IllustratedComposite.java
+END
+MinSizeComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/MinSizeComposite.java
+END
+ConnectionStateComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/ConnectionStateComposite.java
+END
+RoundedComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/RoundedComposite.java
+END
+SimpleIllustratedComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/SimpleIllustratedComposite.java
+END
+SimpleRoundedComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/SimpleRoundedComposite.java
+END

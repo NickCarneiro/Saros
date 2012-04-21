@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch
+END
+Saros_STF_Edna.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/Saros_STF_Edna.launch
+END
+AllTests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/AllTests.launch
+END
+AllTestsForSTF.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/AllTestsForSTF.launch
+END
+Saros_STF_Alice.launch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/Saros_STF_Alice.launch
+END
+Saros_STF_Dave.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/Saros_STF_Dave.launch
+END
+HeadlessPluginTestsSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/HeadlessPluginTestsSuite.launch
+END
+Saros_STF_Carl.launch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/Saros_STF_Carl.launch
+END
+AllTestsSuite.launch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/AllTestsSuite.launch
+END
+Saros_STF_Bob.launch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ee461l-saros/!svn/ver/5/trunk/test/launch/Saros_STF_Bob.launch
+END

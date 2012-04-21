@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor
+END
+EditorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/EditorPool.java
+END
+EditorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/EditorManager.java
+END
+DirtyStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/DirtyStateListener.java
+END
+RemoteWriteAccessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/RemoteWriteAccessManager.java
+END
+SharedEditorListenerDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/SharedEditorListenerDispatch.java
+END
+AbstractSharedEditorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/AbstractSharedEditorListener.java
+END
+EditorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/EditorUtils.java
+END
+ISharedEditorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/ISharedEditorListener.java
+END
+RemoteEditorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/RemoteEditorManager.java
+END
+StoppableDocumentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/editor/StoppableDocumentListener.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/fileFolderOperations
+END
+TestFolderOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/fileFolderOperations/TestFolderOperations.java
+END
+TestFileOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/fileFolderOperations/TestFileOperations.java
+END
+TestSVNStateUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/fileFolderOperations/TestSVNStateUpdates.java
+END

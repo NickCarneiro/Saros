@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs
+END
+VCSResourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs/VCSResourceInfo.java
+END
+SubclipseConsoleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs/SubclipseConsoleListener.java
+END
+SubclipseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs/SubclipseAdapter.java
+END
+SubclipseProjectDeltaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs/SubclipseProjectDeltaVisitor.java
+END
+VCSAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/vcs/VCSAdapter.java
+END

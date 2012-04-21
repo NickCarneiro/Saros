@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project
+END
+ISarosSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ISarosSessionManager.java
+END
+ProjectDeltaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ProjectDeltaVisitor.java
+END
+ISarosSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ISarosSession.java
+END
+ResourceActivityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ResourceActivityFilter.java
+END
+ISarosSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ISarosSessionListener.java
+END
+IActivityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/IActivityListener.java
+END
+ToStringResourceDeltaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ToStringResourceDeltaVisitor.java
+END
+ISharedProjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/ISharedProjectListener.java
+END
+IActivityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/IActivityProvider.java
+END
+AbstractSarosSessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/AbstractSarosSessionListener.java
+END
+SarosSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/SarosSessionManager.java
+END
+AbstractSharedProjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/AbstractSharedProjectListener.java
+END
+PingPongCentral.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/PingPongCentral.java
+END
+AbstractActivityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/AbstractActivityProvider.java
+END
+SharedResourcesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/SharedResourcesManager.java
+END
+SarosRosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/SarosRosterListener.java
+END
+SharedProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/SharedProject.java
+END

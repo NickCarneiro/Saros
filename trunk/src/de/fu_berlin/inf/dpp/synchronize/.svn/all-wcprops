@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/synchronize
+END
+StopManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/synchronize/StopManager.java
+END
+StartHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/synchronize/StartHandle.java
+END
+Blockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/synchronize/Blockable.java
+END

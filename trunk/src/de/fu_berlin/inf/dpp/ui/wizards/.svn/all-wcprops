@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards
+END
+AddBuddyWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/AddBuddyWizard.java
+END
+ShareProjectAddBuddiesWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/ShareProjectAddBuddiesWizard.java
+END
+JoinSessionWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/JoinSessionWizard.java
+END
+InvitationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/InvitationWizard.java
+END
+CreateXMPPAccountWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/CreateXMPPAccountWizard.java
+END
+AddProjectToSessionWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/AddProjectToSessionWizard.java
+END
+ConfigurationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/ConfigurationWizard.java
+END
+EditXMPPAccountWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/EditXMPPAccountWizard.java
+END
+ShareProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/ShareProjectWizard.java
+END
+AddXMPPAccountWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/AddXMPPAccountWizard.java
+END
+ShareProjectAddProjectsWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/ShareProjectAddProjectsWizard.java
+END

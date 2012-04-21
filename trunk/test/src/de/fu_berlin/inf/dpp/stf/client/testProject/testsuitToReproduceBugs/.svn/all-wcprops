@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs
+END
+TestParallelInvitationWithTerminationByHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/TestParallelInvitationWithTerminationByHost.java
+END
+TestEditDuringInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/TestEditDuringInvitation.java
+END
+CreateAccountWithDismatchedPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/CreateAccountWithDismatchedPassword.java
+END
+TestHostInvitesBelatedly.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/TestHostInvitesBelatedly.java
+END
+TestStrictSequentialInvitationWithoutTermination.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/TestStrictSequentialInvitationWithoutTermination.java
+END
+TestParallelInvitationWithTerminationByInvitees.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuitToReproduceBugs/TestParallelInvitationWithTerminationByInvitees.java
+END

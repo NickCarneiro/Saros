@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net
+END
+IncomingTransferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/IncomingTransferObject.java
+END
+TimedActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/TimedActivityDataObject.java
+END
+ConnectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/ConnectionState.java
+END
+DispatchingRosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/DispatchingRosterListener.java
+END
+JID.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/JID.java
+END
+IDataReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/IDataReceiver.java
+END
+ITransferModeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/ITransferModeListener.java
+END
+IFileTransferCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/IFileTransferCallback.java
+END
+IConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/IConnectionListener.java
+END
+RosterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/RosterAdapter.java
+END
+XMPPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/XMPPUtil.java
+END
+ITransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/ITransmitter.java
+END
+RosterTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/RosterTracker.java
+END
+PrecedenceRosterListenerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/PrecedenceRosterListenerComparator.java
+END
+IRosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/IRosterListener.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog
+END
+ConsistencyWatchdogClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog/ConsistencyWatchdogClient.java
+END
+IsInconsistentObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog/IsInconsistentObservable.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog/package-info.java
+END
+SessionViewOpener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog/SessionViewOpener.java
+END
+ConsistencyWatchdogServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/watchdog/ConsistencyWatchdogServer.java
+END

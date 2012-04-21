@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/undo
+END
+UndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/undo/UndoManager.java
+END
+OperationHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/undo/OperationHistory.java
+END

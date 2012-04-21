@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences
+END
+VideoPlayerPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/VideoPlayerPreferencePage.java
+END
+VideoSharingPreferenceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/VideoSharingPreferenceHelper.java
+END
+XugglerEncoderPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/XugglerEncoderPreferencePage.java
+END
+EncoderPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/EncoderPreferencePage.java
+END
+ScreenPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/ScreenPreferencePage.java
+END
+ImageTileEncoderPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/ImageTileEncoderPreferencePage.java
+END
+VideoSharingPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/preferences/VideoSharingPreferencePage.java
+END

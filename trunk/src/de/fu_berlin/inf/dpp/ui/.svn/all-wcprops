@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui
+END
+SarosUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/SarosUI.java
+END
+RemoteProgressManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/RemoteProgressManager.java
+END
+LocalPresenceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/LocalPresenceTracker.java
+END
+ImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/ImageManager.java
+END
+BalloonNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/BalloonNotification.java
+END

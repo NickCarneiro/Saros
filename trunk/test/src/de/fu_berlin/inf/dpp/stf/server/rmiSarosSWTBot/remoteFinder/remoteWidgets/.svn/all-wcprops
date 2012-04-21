@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets
+END
+IRemoteBotTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotTableItem.java
+END
+RemoteBotLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotLabel.java
+END
+IRemoteBotShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotShell.java
+END
+IRemoteBotStyledText.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotStyledText.java
+END
+IRemoteBotList.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotList.java
+END
+RemoteBotText.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotText.java
+END
+IRemoteBotToolbarRadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToolbarRadioButton.java
+END
+RemoteBotChatLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotChatLine.java
+END
+RemoteBotCTabItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotCTabItem.java
+END
+RemoteBotPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotPerspective.java
+END
+IRemoteBotText.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotText.java
+END
+AbstractRmoteWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/AbstractRmoteWidget.java
+END
+IRemoteBotChatLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotChatLine.java
+END
+IRemoteBotTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotTable.java
+END
+IRemoteBotCTabItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotCTabItem.java
+END
+RemoteBotCCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotCCombo.java
+END
+RemoteBotMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotMenu.java
+END
+RemoteBotTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotTableItem.java
+END
+IRemoteBotToolbarPushButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToolbarPushButton.java
+END
+IRemoteBotToolbarButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToolbarButton.java
+END
+IRemoteBotRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotRadio.java
+END
+RemoteBotShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotShell.java
+END
+IRemoteBotCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotCombo.java
+END
+IRemoteBotToolbarToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToolbarToggleButton.java
+END
+RemoteBotView.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotView.java
+END
+RemoteBotButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotButton.java
+END
+IRemoteBotCCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotCCombo.java
+END
+IRemoteBotMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotMenu.java
+END
+RemoteBotToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToggleButton.java
+END
+RemoteBotTreeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotTreeItem.java
+END
+IRemoteBotView.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotView.java
+END
+IRemoteBotToolbarDropDownButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToolbarDropDownButton.java
+END
+IRemoteBotButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotButton.java
+END
+IRemoteBotToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotToggleButton.java
+END
+RemoteBotCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotCheckBox.java
+END
+RemoteBotEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotEditor.java
+END
+IRemoteBotTreeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotTreeItem.java
+END
+RemoteBotTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotTable.java
+END
+IRemoteBotLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotLabel.java
+END
+RemoteBotRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotRadio.java
+END
+RemoteBotToolbarButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToolbarButton.java
+END
+RemoteBotToolbarPushButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToolbarPushButton.java
+END
+IRemoteBotCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotCheckBox.java
+END
+IRemoteBotEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotEditor.java
+END
+RemoteBotCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotCombo.java
+END
+RemoteBotTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotTree.java
+END
+RemoteBotViewMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotViewMenu.java
+END
+RemoteBotToolbarToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToolbarToggleButton.java
+END
+IRemoteBotPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotPerspective.java
+END
+IRemoteBotViewMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotViewMenu.java
+END
+IRemoteBotTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/IRemoteBotTree.java
+END
+RemoteBotStyledText.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotStyledText.java
+END
+RemoteBotList.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotList.java
+END
+RemoteBotToolbarDropDownButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToolbarDropDownButton.java
+END
+RemoteBotToolbarRadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/remoteWidgets/RemoteBotToolbarRadioButton.java
+END

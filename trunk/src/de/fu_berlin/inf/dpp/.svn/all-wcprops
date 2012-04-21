@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp
+END
+FileListDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/FileListDiff.java
+END
+SafeConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/SafeConnectionListener.java
+END
+Saros.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/Saros.java
+END
+StartupSaros.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/StartupSaros.java
+END
+FileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/FileList.java
+END
+SarosPluginContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/SarosPluginContext.java
+END
+SarosContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/SarosContext.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/User.java
+END

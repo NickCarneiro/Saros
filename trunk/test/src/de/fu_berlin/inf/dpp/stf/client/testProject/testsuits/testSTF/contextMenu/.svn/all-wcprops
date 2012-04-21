@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/contextMenu
+END
+TestContextMenuShareWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/contextMenu/TestContextMenuShareWith.java
+END
+TestContextMenuOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/contextMenu/TestContextMenuOpen.java
+END
+AllTestsForContextMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/contextMenu/AllTestsForContextMenu.java
+END
+TestContextMenuDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/contextMenu/TestContextMenuDelete.java
+END

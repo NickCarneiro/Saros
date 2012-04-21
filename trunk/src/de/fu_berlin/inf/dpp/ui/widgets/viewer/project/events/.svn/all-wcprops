@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events
+END
+ProjectSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events/ProjectSelectionListener.java
+END
+FilterClosedProjectsChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events/FilterClosedProjectsChangedEvent.java
+END
+NewProjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events/NewProjectListener.java
+END
+ProjectSelectionChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events/ProjectSelectionChangedEvent.java
+END
+BaseProjectSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/viewer/project/events/BaseProjectSelectionListener.java
+END

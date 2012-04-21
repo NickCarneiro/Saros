@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/org/eclipse/swtbot/swt/finder/keyboard
+END
+DE_DE.keyboard
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/org/eclipse/swtbot/swt/finder/keyboard/DE_DE.keyboard
+END
+MAC_DE.keyboard
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/org/eclipse/swtbot/swt/finder/keyboard/MAC_DE.keyboard
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/org/eclipse/swtbot/swt/finder/keyboard/readme.txt
+END

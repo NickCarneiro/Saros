@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/Encoder.java
+END
+ImageTileEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/ImageTileEncoder.java
+END
+XugglerEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/XugglerEncoder.java
+END

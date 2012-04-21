@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences
+END
+PreferenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/PreferenceUtils.java
+END
+AudioSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/AudioSettings.java
+END
+EncodingManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/EncodingManipulator.java
+END
+LineDelimiterManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/LineDelimiterManipulator.java
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/PreferenceInitializer.java
+END
+IPreferenceManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/IPreferenceManipulator.java
+END
+PreferenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/PreferenceManager.java
+END
+PreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/preferences/PreferenceConstants.java
+END

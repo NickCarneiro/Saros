@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions
+END
+CancelInviteExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/CancelInviteExtension.java
+END
+SarosDefaultPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/SarosDefaultPacketExtension.java
+END
+RequestActivityExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/RequestActivityExtension.java
+END
+CancelProjectSharingExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/CancelProjectSharingExtension.java
+END
+PacketExtensionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/PacketExtensionUtils.java
+END
+UserListExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/UserListExtension.java
+END
+RequestForFileListExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/RequestForFileListExtension.java
+END
+LeaveExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/LeaveExtension.java
+END
+DropSilentlyPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/DropSilentlyPacketExtension.java
+END
+SessionDefaultPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/extensions/SessionDefaultPacketExtension.java
+END

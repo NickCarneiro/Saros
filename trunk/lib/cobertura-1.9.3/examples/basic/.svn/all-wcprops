@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/examples/basic
+END
+build_with_specific_data_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/examples/basic/build_with_specific_data_file.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/examples/basic/build.properties
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/examples/basic/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/examples/basic/build.xml
+END

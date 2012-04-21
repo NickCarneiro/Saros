@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/org.ant4eclipse_1.0.0.M4/macros
+END
+a4e-pde-macros.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/org.ant4eclipse_1.0.0.M4/macros/a4e-pde-macros.xml
+END
+a4e-jdt-macros.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/org.ant4eclipse_1.0.0.M4/macros/a4e-jdt-macros.xml
+END
+a4e-platform-macros.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/org.ant4eclipse_1.0.0.M4/macros/a4e-platform-macros.xml
+END

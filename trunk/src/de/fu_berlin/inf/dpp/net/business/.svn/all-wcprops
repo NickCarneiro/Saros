@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business
+END
+ConsistencyWatchdogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/ConsistencyWatchdogHandler.java
+END
+ActivitiesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/ActivitiesHandler.java
+END
+CancelInviteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/CancelInviteHandler.java
+END
+InvitationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/InvitationHandler.java
+END
+CancelProjectSharingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/CancelProjectSharingHandler.java
+END
+UserListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/UserListHandler.java
+END
+LeaveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/LeaveHandler.java
+END
+RequestForActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/RequestForActivityHandler.java
+END
+DispatchThreadContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/business/DispatchThreadContext.java
+END

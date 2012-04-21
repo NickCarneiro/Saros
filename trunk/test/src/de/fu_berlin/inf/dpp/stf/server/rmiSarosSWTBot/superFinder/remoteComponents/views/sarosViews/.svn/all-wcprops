@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews
+END
+RSView.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/RSView.java
+END
+SarosView.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/SarosView.java
+END
+IChatroom.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/IChatroom.java
+END
+IRSView.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/IRSView.java
+END
+ISarosView.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/ISarosView.java
+END
+Chatroom.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/superFinder/remoteComponents/views/sarosViews/Chatroom.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets
+END
+SarosSWTBotChatLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets/SarosSWTBotChatLine.java
+END
+SarosSWTBotChatLinePartnerChangeSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets/SarosSWTBotChatLinePartnerChangeSeparator.java
+END
+ContextMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets/ContextMenuHelper.java
+END
+SarosSWTBotRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets/SarosSWTBotRadio.java
+END
+SarosSWTBotChatInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/sarosSWTBot/widgets/SarosSWTBotChatInput.java
+END

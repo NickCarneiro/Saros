@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF
+END
+MyClassChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClassChange.java
+END
+MyClass2Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClass2Change.java
+END
+MyClass3Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClass3Change.java
+END
+all.policy
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/all.policy
+END
+MyClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClass.java
+END
+lorem.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/lorem.txt
+END
+MyClass2.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClass2.java
+END
+MyClass3.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ee461l-saros/!svn/ver/5/trunk/test/STF/MyClass3.java
+END

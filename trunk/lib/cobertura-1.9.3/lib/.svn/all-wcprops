@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib
+END
+log4j-1.2.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/log4j-1.2.9.jar
+END
+asm-tree-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/asm-tree-3.0.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/jakarta-oro-2.0.8.jar
+END
+jakarta-oro-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/jakarta-oro-license.txt
+END
+asm-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/asm-3.0.jar
+END
+log4j-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-saros/!svn/ver/5/trunk/lib/cobertura-1.9.3/lib/log4j-license.txt
+END

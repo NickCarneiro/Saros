@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio
+END
+MixerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/MixerManager.java
+END
+IAudioServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/IAudioServiceListener.java
+END
+AudioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/AudioService.java
+END
+AudioServiceListenerDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/AudioServiceListenerDispatch.java
+END
+AbstractAudioServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/AbstractAudioServiceListener.java
+END
+AudioServiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/communication/audio/AudioServiceManager.java
+END

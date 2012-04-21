@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/permissionsAndFollowmode
+END
+TestWriteAccessChangeAndImmediateWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/permissionsAndFollowmode/TestWriteAccessChangeAndImmediateWrite.java
+END
+TestChangingUserWithWriteAccessWhileOtherFollow.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/permissionsAndFollowmode/TestChangingUserWithWriteAccessWhileOtherFollow.java
+END
+TestAllParticipantsFollowUserWithWriteAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/permissionsAndFollowmode/TestAllParticipantsFollowUserWithWriteAccess.java
+END
+TestFollowMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/permissionsAndFollowmode/TestFollowMode.java
+END

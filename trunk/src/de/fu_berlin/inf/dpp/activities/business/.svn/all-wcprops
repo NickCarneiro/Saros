@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business
+END
+JupiterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/JupiterActivity.java
+END
+ChangeColorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ChangeColorActivity.java
+END
+StopActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/StopActivity.java
+END
+EditorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/EditorActivity.java
+END
+PermissionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/PermissionActivity.java
+END
+IActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/IActivity.java
+END
+AbstractActivityReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/AbstractActivityReceiver.java
+END
+TextEditActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/TextEditActivity.java
+END
+TextSelectionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/TextSelectionActivity.java
+END
+VCSActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/VCSActivity.java
+END
+IResourceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/IResourceActivity.java
+END
+ChecksumActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ChecksumActivity.java
+END
+AbstractActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/AbstractActivity.java
+END
+ProgressActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ProgressActivity.java
+END
+ProjectsAddedActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ProjectsAddedActivity.java
+END
+FolderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/FolderActivity.java
+END
+ChecksumErrorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ChecksumErrorActivity.java
+END
+IActivityReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/IActivityReceiver.java
+END
+FileActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/FileActivity.java
+END
+ViewportActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/ViewportActivity.java
+END
+PingPongActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/business/PingPongActivity.java
+END

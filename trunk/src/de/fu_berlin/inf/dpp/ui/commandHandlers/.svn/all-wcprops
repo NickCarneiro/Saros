@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers
+END
+CreateXMPPAccountHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/CreateXMPPAccountHandler.java
+END
+SharedProjectAddBuddiesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/SharedProjectAddBuddiesHandler.java
+END
+ShareProjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/ShareProjectHandler.java
+END
+SharedProjectAddSelectedProjectsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/SharedProjectAddSelectedProjectsHandler.java
+END
+OpenSarosPreferencesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/OpenSarosPreferencesHandler.java
+END
+SharedProjectLeave.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/SharedProjectLeave.java
+END
+StartSarosConfigurationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/StartSarosConfigurationHandler.java
+END
+SharedProjectAddSelectedBuddiesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/SharedProjectAddSelectedBuddiesHandler.java
+END
+AddBuddyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/AddBuddyHandler.java
+END
+SharedProjectAddProjectsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/commandHandlers/SharedProjectAddProjectsHandler.java
+END

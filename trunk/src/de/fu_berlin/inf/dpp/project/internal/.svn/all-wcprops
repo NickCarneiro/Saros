@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal
+END
+ChangeColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/ChangeColorManager.java
+END
+FreeColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/FreeColors.java
+END
+PermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/PermissionManager.java
+END
+ResourceChangeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/ResourceChangeValidator.java
+END
+SarosProjectMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/SarosProjectMapper.java
+END
+SharedProjectListenerDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/SharedProjectListenerDispatch.java
+END
+ProjectsAddedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/ProjectsAddedManager.java
+END
+SarosSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/project/internal/SarosSession.java
+END

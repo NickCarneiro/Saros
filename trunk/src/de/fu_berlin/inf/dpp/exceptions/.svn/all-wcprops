@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions
+END
+SarosCancellationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/SarosCancellationException.java
+END
+LocalCancellationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/LocalCancellationException.java
+END
+RemoteCancellationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/RemoteCancellationException.java
+END
+StreamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/StreamException.java
+END
+UserCancellationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/UserCancellationException.java
+END
+ReceiverGoneException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/ReceiverGoneException.java
+END
+StreamServiceNotValidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/StreamServiceNotValidException.java
+END
+ConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/exceptions/ConnectionException.java
+END

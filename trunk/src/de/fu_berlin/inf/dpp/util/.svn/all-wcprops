@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util
+END
+ColorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ColorUtils.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/Utils.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/FileUtils.java
+END
+MappedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/MappedList.java
+END
+LinkListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/LinkListener.java
+END
+MappingIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/MappingIterator.java
+END
+VetoableValueChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/VetoableValueChangeListener.java
+END
+CausedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/CausedIOException.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/StopWatch.java
+END
+VersionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/VersionManager.java
+END
+ObservableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ObservableValue.java
+END
+StackTrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/StackTrace.java
+END
+BlockingProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/BlockingProgressMonitor.java
+END
+StreamJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/StreamJob.java
+END
+FontUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/FontUtils.java
+END
+UncloseableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/UncloseableInputStream.java
+END
+ArrayIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ArrayIterator.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ArrayUtils.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/Predicate.java
+END
+VetoableObservableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/VetoableObservableValue.java
+END
+Supplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/Supplier.java
+END
+NamedThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/NamedThreadFactory.java
+END
+TotalOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/TotalOrderComparator.java
+END
+FileZipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/FileZipper.java
+END
+AutoHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/AutoHashMap.java
+END
+ActivityUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ActivityUtils.java
+END
+ThreadAccessRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ThreadAccessRecorder.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/Function.java
+END
+StateChangeNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/StateChangeNotifier.java
+END
+ValueChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/ValueChangeListener.java
+END
+DeferredValueChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/DeferredValueChangeListener.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/Pair.java
+END
+StateChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/util/StateChangeListener.java
+END

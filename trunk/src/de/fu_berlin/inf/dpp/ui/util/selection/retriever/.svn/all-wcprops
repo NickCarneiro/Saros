@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/util/selection/retriever
+END
+ISelectionConvertingRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/util/selection/retriever/ISelectionConvertingRetriever.java
+END
+SelectionRetrieverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/util/selection/retriever/SelectionRetrieverFactory.java
+END
+ISelectionRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/util/selection/retriever/ISelectionRetriever.java
+END

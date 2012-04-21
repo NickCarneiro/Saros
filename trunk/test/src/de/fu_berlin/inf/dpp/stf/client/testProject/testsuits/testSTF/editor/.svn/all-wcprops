@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/editor
+END
+TestEditorByAlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/editor/TestEditorByAlice.java
+END
+TestEditorByAliceBob.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/editor/TestEditorByAliceBob.java
+END
+TestEditor2.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/editor/TestEditor2.java
+END
+AllTestsForEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits/testSTF/editor/AllTestsForEditor.java
+END

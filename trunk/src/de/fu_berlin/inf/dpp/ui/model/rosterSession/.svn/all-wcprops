@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession
+END
+RosterHeaderElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/RosterHeaderElement.java
+END
+HeaderElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/HeaderElement.java
+END
+RosterSessionInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/RosterSessionInput.java
+END
+SessionHeaderElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/SessionHeaderElement.java
+END
+RosterSessionContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/RosterSessionContentProvider.java
+END
+UserElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/UserElement.java
+END
+RosterSessionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/RosterSessionComparator.java
+END
+RosterSessionAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/model/rosterSession/RosterSessionAdapterFactory.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities
+END
+SessionErrorVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/SessionErrorVideoActivity.java
+END
+KeyPressedVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/KeyPressedVideoActivity.java
+END
+VideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/VideoActivity.java
+END
+SessionVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/SessionVideoActivity.java
+END
+MouseWheeledVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/MouseWheeledVideoActivity.java
+END
+MouseClickedVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/MouseClickedVideoActivity.java
+END
+MouseVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/MouseVideoActivity.java
+END
+ImageSourceSwitchModeVideoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/activities/ImageSourceSwitchModeVideoActivity.java
+END

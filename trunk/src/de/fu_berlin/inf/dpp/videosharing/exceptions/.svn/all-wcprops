@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions
+END
+ImageSourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/ImageSourceException.java
+END
+EncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/EncodingException.java
+END
+EncoderInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/EncoderInitializationException.java
+END
+CoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/CoderException.java
+END
+DecodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/DecodingException.java
+END
+DecoderInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/exceptions/DecoderInitializationException.java
+END

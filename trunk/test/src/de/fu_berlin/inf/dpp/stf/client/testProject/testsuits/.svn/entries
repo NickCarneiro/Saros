@@ -1,0 +1,92 @@
+10
+
+dir
+5
+https://subversion.assembla.com/svn/ee461l-saros/trunk/test/src/de/fu_berlin/inf/dpp/stf/client/testProject/testsuits
+https://subversion.assembla.com/svn/ee461l-saros
+
+
+
+2012-01-17T18:03:49.233387Z
+3
+EE461L-Grading-Spring2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+463485fc-6566-440e-8887-9ae637b37478
+
+fileFolderOperations
+dir
+
+initialising
+dir
+
+invitation
+dir
+
+multiDriver
+dir
+
+permissionsAndFollowmode
+dir
+
+saving
+dir
+
+chatview
+dir
+
+enteringAndExitingSession
+dir
+
+testSTF
+dir
+
+STFTest.java
+file
+
+
+
+
+2012-04-21T22:41:12.000000Z
+cd6f0fba43710701476081933297dacd
+2012-01-17T18:03:49.233387Z
+3
+EE461L-Grading-Spring2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32605
+
+RosterViewBehaviour
+dir
+

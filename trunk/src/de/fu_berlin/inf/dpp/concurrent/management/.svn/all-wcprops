@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management
+END
+ConcurrentDocumentClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/ConcurrentDocumentClient.java
+END
+DocumentChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/DocumentChecksum.java
+END
+JupiterClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/JupiterClient.java
+END
+TransformationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/TransformationResult.java
+END
+ConcurrentDocumentServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/ConcurrentDocumentServer.java
+END
+JupiterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/management/JupiterServer.java
+END

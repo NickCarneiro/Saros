@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder
+END
+RemoteBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/RemoteBot.java
+END
+RemoteWorkbenchBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/RemoteWorkbenchBot.java
+END
+IRemoteBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/IRemoteBot.java
+END
+IRemoteWorkbenchBot.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/remoteFinder/IRemoteWorkbenchBot.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions
+END
+IMBeepAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/IMBeepAction.java
+END
+ConsistencyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/ConsistencyAction.java
+END
+NewContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/NewContactAction.java
+END
+FollowModeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/FollowModeAction.java
+END
+ChangeXMPPAccountAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/ChangeXMPPAccountAction.java
+END
+VoIPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/VoIPAction.java
+END
+DeleteContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/DeleteContactAction.java
+END
+StoppedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/StoppedAction.java
+END
+FollowThisPersonAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/FollowThisPersonAction.java
+END
+RestrictToReadOnlyAccessAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/RestrictToReadOnlyAccessAction.java
+END
+VideoSharingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/VideoSharingAction.java
+END
+RenameContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/RenameContactAction.java
+END
+ChangeColorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/ChangeColorAction.java
+END
+GiveWriteAccessAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/GiveWriteAccessAction.java
+END
+SendFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/SendFileAction.java
+END
+SkypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/SkypeAction.java
+END
+JumpToUserWithWriteAccessPositionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/JumpToUserWithWriteAccessPositionAction.java
+END
+ConnectionTestAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/ConnectionTestAction.java
+END
+LeaveSessionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/actions/LeaveSessionAction.java
+END

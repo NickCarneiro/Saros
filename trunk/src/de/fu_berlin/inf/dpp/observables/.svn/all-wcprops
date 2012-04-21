@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables
+END
+VideoSessionObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/VideoSessionObservable.java
+END
+FileReplacementInProgressObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/FileReplacementInProgressObservable.java
+END
+SarosSessionObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/SarosSessionObservable.java
+END
+SessionIDObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/SessionIDObservable.java
+END
+VoIPSessionObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/VoIPSessionObservable.java
+END
+InvitationProcessObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/InvitationProcessObservable.java
+END
+ProjectNegotiationObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/ProjectNegotiationObservable.java
+END
+JingleFileTransferManagerObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/observables/JingleFileTransferManagerObservable.java
+END

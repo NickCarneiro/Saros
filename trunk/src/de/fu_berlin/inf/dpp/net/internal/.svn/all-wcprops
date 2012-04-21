@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal
+END
+StreamSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/StreamSession.java
+END
+BinaryPacketProto.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/BinaryPacketProto.java
+END
+InvitationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/InvitationInfo.java
+END
+DefaultSessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/DefaultSessionInfo.java
+END
+DefaultInvitationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/DefaultInvitationInfo.java
+END
+StreamServiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/StreamServiceManager.java
+END
+ActivitySequencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/ActivitySequencer.java
+END
+IBBTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/IBBTransport.java
+END
+DataTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/DataTransferManager.java
+END
+BinaryChannelTransferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/BinaryChannelTransferObject.java
+END
+XMPPReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/XMPPReceiver.java
+END
+SafePacketListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/SafePacketListener.java
+END
+ActivitiesExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/ActivitiesExtensionProvider.java
+END
+StreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/StreamService.java
+END
+BinaryChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/BinaryChannel.java
+END
+IBytestreamConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/IBytestreamConnectionListener.java
+END
+XMPPTransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/XMPPTransmitter.java
+END
+Socks5Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/Socks5Transport.java
+END
+AbstractFileTransferCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/AbstractFileTransferCallback.java
+END
+JingleTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/JingleTransport.java
+END
+SarosPacketCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/SarosPacketCollector.java
+END
+UserListInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/UserListInfo.java
+END
+TimedActivities.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/TimedActivities.java
+END
+TransferDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/TransferDescription.java
+END
+DataConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/DataConnection.java
+END
+ConnectionTestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/ConnectionTestManager.java
+END
+XStreamExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/XStreamExtensionProvider.java
+END
+BytestreamTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/BytestreamTransport.java
+END
+BinaryChannelConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/net/internal/BinaryChannelConnection.java
+END

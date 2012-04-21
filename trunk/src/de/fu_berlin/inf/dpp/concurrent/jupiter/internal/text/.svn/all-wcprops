@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text
+END
+DeleteOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/DeleteOperation.java
+END
+GOTOInclusionTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/GOTOInclusionTransformation.java
+END
+TimestampOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/TimestampOperation.java
+END
+InsertOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/InsertOperation.java
+END
+SplitOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/SplitOperation.java
+END
+NoOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/NoOperation.java
+END
+ITextOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/text/ITextOperation.java
+END

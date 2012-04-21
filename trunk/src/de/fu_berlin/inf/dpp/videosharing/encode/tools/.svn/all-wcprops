@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools
+END
+PixelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/PixelUtils.java
+END
+Quantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/Quantizer.java
+END
+QuantizeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/QuantizeFilter.java
+END
+WholeImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/WholeImageFilter.java
+END
+AbstractBufferedImageOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/AbstractBufferedImageOp.java
+END
+OctTreeQuantizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/videosharing/encode/tools/OctTreeQuantizer.java
+END

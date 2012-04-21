@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/ee461l-saros/!svn/ver/5/trunk
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ee461l-saros/!svn/ver/5/trunk/readme.html
+END
+Saros_Carl.launch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ee461l-saros/!svn/ver/5/trunk/Saros_Carl.launch
+END
+Saros_Bob.launch
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ee461l-saros/!svn/ver/5/trunk/Saros_Bob.launch
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ee461l-saros/!svn/ver/5/trunk/LICENSE
+END
+header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ee461l-saros/!svn/ver/5/trunk/header.txt
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ee461l-saros/!svn/ver/5/trunk/CHANGELOG
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ee461l-saros/!svn/ver/5/trunk/build.sh
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ee461l-saros/!svn/ver/5/trunk/build.properties
+END
+Saros_Alice_Host.launch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ee461l-saros/!svn/ver/5/trunk/Saros_Alice_Host.launch
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ee461l-saros/!svn/ver/5/trunk/log4j.properties
+END
+credits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ee461l-saros/!svn/ver/5/trunk/credits.txt
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ee461l-saros/!svn/ver/5/trunk/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ee461l-saros/!svn/ver/5/trunk/build.xml
+END

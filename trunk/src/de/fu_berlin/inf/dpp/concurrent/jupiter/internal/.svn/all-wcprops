@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal
+END
+Jupiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/Jupiter.java
+END
+JupiterVectorTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/JupiterVectorTime.java
+END
+JupiterDocumentServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/JupiterDocumentServer.java
+END
+JupiterTimestampFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/concurrent/jupiter/internal/JupiterTimestampFactory.java
+END

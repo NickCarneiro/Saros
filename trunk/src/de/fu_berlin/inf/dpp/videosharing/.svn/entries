@@ -1,0 +1,123 @@
+10
+
+dir
+5
+https://subversion.assembla.com/svn/ee461l-saros/trunk/src/de/fu_berlin/inf/dpp/videosharing
+https://subversion.assembla.com/svn/ee461l-saros
+
+
+
+2012-01-17T18:03:49.233387Z
+3
+EE461L-Grading-Spring2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+463485fc-6566-440e-8887-9ae637b37478
+
+source
+dir
+
+exceptions
+dir
+
+preferences
+dir
+
+VideoSharing.java
+file
+
+
+
+
+2012-04-21T22:41:12.000000Z
+b9ea0daeaf48218bd1958bed3f5bed20
+2012-01-17T18:03:49.233387Z
+3
+EE461L-Grading-Spring2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29423
+
+decode
+dir
+
+VideoSharingService.java
+file
+
+
+
+
+2012-04-21T22:41:12.000000Z
+3de081b51a442e8d3fdcf1f7dc641f02
+2012-01-17T18:03:49.233387Z
+3
+EE461L-Grading-Spring2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2573
+
+activities
+dir
+
+net
+dir
+
+manager
+dir
+
+player
+dir
+
+encode
+dir
+

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions
+END
+IsShellActive.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsShellActive.java
+END
+IsRevisionSame.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsRevisionSame.java
+END
+IsUrlSame.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsUrlSame.java
+END
+ExistsTableItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/ExistsTableItem.java
+END
+IsNotInSVN.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsNotInSVN.java
+END
+isMenuEnabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/isMenuEnabled.java
+END
+SarosSWTBotPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/SarosSWTBotPreferences.java
+END
+SarosConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/SarosConditions.java
+END
+ExistsNoResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/ExistsNoResource.java
+END
+ExistsChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/ExistsChatMessage.java
+END
+IsShellOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsShellOpen.java
+END
+ExistsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/ExistsResource.java
+END
+IsInSVN.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsInSVN.java
+END
+IsShellClosed.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsShellClosed.java
+END
+IsDisConnected.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/stf/server/rmiSarosSWTBot/conditions/IsDisConnected.java
+END

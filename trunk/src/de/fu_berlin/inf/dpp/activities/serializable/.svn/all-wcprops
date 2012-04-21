@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable
+END
+ChecksumActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ChecksumActivityDataObject.java
+END
+AbstractActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/AbstractActivityDataObject.java
+END
+ProgressActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ProgressActivityDataObject.java
+END
+ProjectsAddedActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ProjectsAddedActivityDataObject.java
+END
+FolderActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/FolderActivityDataObject.java
+END
+ChecksumErrorActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ChecksumErrorActivityDataObject.java
+END
+IProjectActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/IProjectActivityDataObject.java
+END
+FileActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/FileActivityDataObject.java
+END
+ViewportActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ViewportActivityDataObject.java
+END
+PingPongActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/PingPongActivityDataObject.java
+END
+JupiterActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/JupiterActivityDataObject.java
+END
+ChangeColorActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/ChangeColorActivityDataObject.java
+END
+StopActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/StopActivityDataObject.java
+END
+EditorActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/EditorActivityDataObject.java
+END
+PermissionActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/PermissionActivityDataObject.java
+END
+IActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/IActivityDataObject.java
+END
+AbstractProjectActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/AbstractProjectActivityDataObject.java
+END
+TextEditActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/TextEditActivityDataObject.java
+END
+TextSelectionActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/TextSelectionActivityDataObject.java
+END
+VCSActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/VCSActivityDataObject.java
+END
+IResourceActivityDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/activities/serializable/IResourceActivityDataObject.java
+END

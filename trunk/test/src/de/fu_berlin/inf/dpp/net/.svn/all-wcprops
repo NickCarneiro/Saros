@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net
+END
+NetTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net/NetTestSuite.java
+END
+XMPPConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net/XMPPConnectionTest.java
+END
+JIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net/JIDTest.java
+END
+GZipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net/GZipTest.java
+END
+FileListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-saros/!svn/ver/5/trunk/test/src/de/fu_berlin/inf/dpp/net/FileListTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/chatControl/items
+END
+ChatLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/chatControl/items/ChatLine.java
+END
+ChatLineSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/chatControl/items/ChatLineSeparator.java
+END
+ChatLinePartnerChangeSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/widgets/chatControl/items/ChatLinePartnerChangeSeparator.java
+END

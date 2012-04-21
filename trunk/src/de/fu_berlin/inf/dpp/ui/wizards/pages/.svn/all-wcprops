@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages
+END
+ShowDescriptionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/ShowDescriptionPage.java
+END
+EnterProjectNamePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/EnterProjectNamePage.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/messages.properties
+END
+ConfigurationSummaryWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/ConfigurationSummaryWizardPage.java
+END
+CreateXMPPAccountWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/CreateXMPPAccountWizardPage.java
+END
+EditXMPPAccountWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/EditXMPPAccountWizardPage.java
+END
+ConfigurationSettingsWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/ConfigurationSettingsWizardPage.java
+END
+InvitationWizardUserSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/InvitationWizardUserSelectionPage.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/Messages.java
+END
+ProjectSelectionWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/ProjectSelectionWizardPage.java
+END
+BuddySelectionWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/BuddySelectionWizardPage.java
+END
+EnterXMPPAccountWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/EnterXMPPAccountWizardPage.java
+END
+AddBuddyWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-saros/!svn/ver/5/trunk/src/de/fu_berlin/inf/dpp/ui/wizards/pages/AddBuddyWizardPage.java
+END

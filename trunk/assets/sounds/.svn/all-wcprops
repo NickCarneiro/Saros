@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ee461l-saros/!svn/ver/5/trunk/assets/sounds
+END
+UserComesOnline.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/assets/sounds/UserComesOnline.wav
+END
+MessageReceived.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/assets/sounds/MessageReceived.wav
+END
+MessageSent.wav
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ee461l-saros/!svn/ver/5/trunk/assets/sounds/MessageSent.wav
+END
+UserGoesOffline.wav
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-saros/!svn/ver/5/trunk/assets/sounds/UserGoesOffline.wav
+END
