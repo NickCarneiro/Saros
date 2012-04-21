@@ -77,6 +77,7 @@ import de.fu_berlin.inf.dpp.ui.actions.IMBeepAction;
 import de.fu_berlin.inf.dpp.ui.actions.JumpToUserWithWriteAccessPositionAction;
 import de.fu_berlin.inf.dpp.ui.actions.LeaveSessionAction;
 import de.fu_berlin.inf.dpp.ui.actions.NewContactAction;
+import de.fu_berlin.inf.dpp.ui.actions.RemoveFromSessionAction;
 import de.fu_berlin.inf.dpp.ui.actions.RenameContactAction;
 import de.fu_berlin.inf.dpp.ui.actions.RestrictToReadOnlyAccessAction;
 import de.fu_berlin.inf.dpp.ui.actions.SendFileAction;
@@ -348,6 +349,9 @@ public class SarosView extends ViewPart {
     protected void addSessionMenuItems(MenuManager menuManager) {
         final GiveWriteAccessAction giveWriteAccessAction = new GiveWriteAccessAction();
         final RestrictToReadOnlyAccessAction restrictToReadOnlyAccessAction = new RestrictToReadOnlyAccessAction();
+        // TODO (for Remove User Mod): add instantiation of
+        // RemoveFromSessionAction
+        final RemoveFromSessionAction removeFromSessionAction = new RemoveFromSessionAction();
         final FollowThisPersonAction followModeAction = new FollowThisPersonAction();
         final JumpToUserWithWriteAccessPositionAction jumpToUserWithWriteAccessPositionAction = new JumpToUserWithWriteAccessPositionAction();
         final SendFileAction sendFileAction = new SendFileAction();
@@ -382,6 +386,9 @@ public class SarosView extends ViewPart {
                             && sarosSessionManager.getSarosSession().isHost()) {
                             manager.add(giveWriteAccessAction);
                             manager.add(restrictToReadOnlyAccessAction);
+                            // TODO (for Remove User Mod) add the remove user
+                            // action to the manager
+                            manager.add(removeFromSessionAction);
                             manager.add(new Separator());
                         }
                         manager.add(followModeAction);
@@ -390,6 +397,7 @@ public class SarosView extends ViewPart {
                         manager.add(sendFileAction);
                         manager.add(videoSharingAction);
                         manager.add(voipAction);
+
                     }
                 }
             }
@@ -452,7 +460,6 @@ public class SarosView extends ViewPart {
 
     @Override
     public void setFocus() {
-        // TODO Auto-generated method stub
 
     }
 }

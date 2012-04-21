@@ -24,6 +24,7 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
+import java.util.concurrent.CancellationException;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -507,6 +508,122 @@ public class SarosSessionManager implements IConnectionListener,
     }
 
     /**
+     * Removes a user from the session.
+     * 
+     * @param toUninvite
+     *            the user that is to be uninvited.
+     */
+    public void uninvite(User toUninvite) {
+        // get current sarosSession
+        // create a new UninvitationJob instance
+        // schedule that UninvitationJob instance
+        ISarosSession sarosSession = this.getSarosSession();
+        UninvitationJob uj = new UninvitationJob(toUninvite, sarosSession,
+            transmitter);
+        uj.schedule();
+    }
+
+    /**
+     * Removes a list of users from the session.
+     * 
+     * @param usersToUninvite
+     *            the list of users to be removed from the session
+     */
+    public void uninvite(Collection<User> usersToUninvite) {
+        // for each user in the usersToUninvite list
+        // uninvite that user
+
+        for (User u : usersToUninvite) {
+            this.uninvite(u);
+        }
+    }
+
+    /**
+     * 
+     * UninvitationJob performs the uninvitation, handling the exceptions like
+     * local or remote cancellation.
+     * 
+     * It notifies the user about the progress using the Eclipse Jobs API and
+     * interrupts the process if the session closes.
+     * 
+     */
+    protected static class UninvitationJob extends Job {
+
+        // Necessary class member fields go here
+        User user;
+        XMPPTransmitter transmitter;
+        ISarosSession sarosSession;
+
+        // Constructor: accepts a User, sarosSession, and XMPPTransmitter
+        public UninvitationJob(User u, ISarosSession s, XMPPTransmitter x) {
+            // calls parent class constructor with message about uninviting this
+            // user's JID
+            super("Uninviting " + u.getHumanReadableName() + " with JID: "
+                + u.getJID() + "...");
+
+            // sets progress constant KEEP_PROPERTY=true to allow it to watch
+            // job's progress
+            setProperty(IProgressConstants.KEEP_PROPERTY, Boolean.TRUE);
+
+            // stores user, sarosSession, and XMPPTransmitter to member fields
+            user = u;
+            sarosSession = s;
+            transmitter = x;
+
+        }
+
+        // Override the run method here: accepts a progress monitor, returns
+        @Override
+        protected IStatus run(IProgressMonitor monitor) {
+            // convert progress monitor into a sub-monitor
+            SubMonitor sub = SubMonitor.convert(monitor, 2);
+            try {
+
+                // set the sub-monitor's remaining work to the appropriate
+                // number of tasks
+                sub.worked(1);
+
+                // transmit a sendLeaveMessage with the user's JID
+                this.transmitter.sendLeaveMessage(sarosSession);
+                log.debug("User JID: " + user.getJID());
+
+                // actually remove the user
+
+                sarosSession.removeUser(user);
+
+                // try to synchronize the user list
+                sarosSession.synchronizeUserList(transmitter, user.getJID(),
+                    user.getJID().toString(), sub);
+
+                // (one task is done)
+                sub.worked(1);
+
+            } catch (CancellationException e) {
+                // catch a cancellation exception
+                // log the exception
+
+                log.error("CancellationException");
+
+                // set the sub-monitor's progress to cancelled
+                monitor.setCanceled(true);
+                // return cancelled status
+                return Status.CANCEL_STATUS;
+
+            } catch (Exception e) {
+
+                log.error("This exception is not expected here: ", e);
+                return new Status(IStatus.ERROR, Saros.SAROS, e.getMessage(), e);
+
+            }
+
+            // otherwise just return OK status
+            return Status.OK_STATUS;
+
+        }
+
+    } // end of UnivitationJob class
+
+    /**
      * Adds projects to an existing session and starts to share the
      * {@code projectsToAdd}
      * 
@@ -751,4 +868,5 @@ public class SarosSessionManager implements IConnectionListener,
             }
         }
     }
+
 }

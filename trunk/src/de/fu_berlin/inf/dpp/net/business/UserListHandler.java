@@ -1,5 +1,8 @@
 package de.fu_berlin.inf.dpp.net.business;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 import org.apache.log4j.Logger;
 import org.jivesoftware.smack.PacketListener;
 import org.jivesoftware.smack.packet.Packet;
@@ -109,6 +112,30 @@ public class UserListHandler {
                         }
                     }
                 }
+
+                // Remove extra users
+                // copy the JID of each userEntry in the userList into a list of
+                // validJIDs
+                ArrayList<JID> validJIDs = new ArrayList<JID>();
+                for (UserListEntry userEntry : userListInfo.userList) {
+                    validJIDs.add(userEntry.jid);
+                }
+                // for all participants in the sarosSession
+                Collection<User> participants = sarosSession.getParticipants();
+                for (User u : participants) {
+                    // if the participant's JID is NOT in the list of validJIDs
+                    if (validJIDs.contains(u.getJID()) == false) {
+                        // log an informational message about removing the
+                        // participant,
+                        // including the parcitipant's human-readable name
+                        log.info("Removing participant: "
+                            + u.getHumanReadableName());
+
+                        // remove the participant from the sarosSession
+                        sarosSession.removeUser(u);
+                    }
+                }
+
                 transmitter.sendUserListConfirmation(fromJID);
             }
 

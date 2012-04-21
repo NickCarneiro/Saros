@@ -1,5 +1,6 @@
 package de.fu_berlin.inf.dpp.ui.util;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.LinkedList;
 import java.util.List;
@@ -217,6 +218,76 @@ public class CollaborationUtils {
             }
         });
     }
+
+    /**
+     * Remove the given users from the session.<br/>
+     * Does nothing if no {@link SarosSession} is running.
+     * 
+     * @param sarosSessionManager
+     *            the manager of the saros session
+     * @param users
+     *            the list of users to remove
+     * 
+     * @nonBlocking
+     */
+    public static void removeUsersFromSarosSession(
+        final SarosSessionManager sarosSessionManager, final List<User> users) {
+
+        // run the following code in a safe asynchronous utility command
+        Utils.runSafeAsync(log, new Runnable() {
+            // in the run method of the utility command, do the following:
+            public void run() {
+                // get the current sarosSession
+                final ISarosSession session = sarosSessionManager
+                    .getSarosSession();
+
+                // if the sarosSession is not null
+                if (session != null) {
+                    // run the following code in a safe asynchronous utility
+                    // command
+                    Utils.runSafeAsync(log, new Runnable() {
+                        // in the run method of the utility command, do the
+                        // following:
+                        public void run() {
+
+                            // get the current saros session's parcipants, store
+                            // it into a list of users
+                            Collection<User> participants = session
+                                .getParticipants();
+                            // create a new list of users to remove
+                            List<User> toRemove = new ArrayList<User>();
+                            // for all users that exist in the current saros
+                            // session and are in the
+                            // list of users passed into this method
+                            for (User u : participants) {
+                                // add those users to the list of users to
+                                // remove
+                                if (users.contains(u)) {
+                                    toRemove.add(u);
+                                }
+                            }
+
+                            // if that list of users to remove has at least one
+                            // user in it uninvite that list of users
+                            if (toRemove.size() > 0) {
+                                for (User u : toRemove) {
+                                    sarosSessionManager.uninvite(u);
+                                }
+                            }
+                        }
+                    });
+
+                } else {
+                    // else (if the sarosSession is null)
+                    // log a warning about trying to remove a buddy from the
+                    // saros session
+                    log.warn("Tried to remove a buddy from a null saros session.");
+                }
+
+            }
+        });
+
+    } // end of removeUsersFromSarosSession method
 
     /**
      * Creates the error message in case the user is offline.
