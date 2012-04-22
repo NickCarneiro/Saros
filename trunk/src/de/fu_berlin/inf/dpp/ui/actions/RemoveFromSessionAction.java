@@ -1,5 +1,6 @@
 package de.fu_berlin.inf.dpp.ui.actions;
 
+import java.util.LinkedList;
 import java.util.List;
 
 import org.apache.log4j.Logger;
@@ -87,9 +88,8 @@ public class RemoveFromSessionAction extends Action implements IDisposable {
                 // get the selected list of participants
                 List<User> participants = null;
                 try {
-                    participants = SelectionRetrieverFactory
-                        .getSelectionRetriever(User.class).getSelection();
-
+                	participants = new LinkedList<User>(sessionManager
+                            .getSarosSession().getParticipants());
                 } catch (NullPointerException e) {
                     setEnabled(false);
                 } catch (Exception e) {
